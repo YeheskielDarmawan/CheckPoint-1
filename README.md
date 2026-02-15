@@ -1,6 +1,6 @@
 # CheckPoint-1 Pengumpulan Data & Pemahaman Bisnis
-
 Tema : Messy Employee Dataset
+
 Nama : Yeheskiel Darmawan  
 NIM  : 2509116027
 

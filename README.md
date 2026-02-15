@@ -2,6 +2,7 @@
 
 Nama : Yeheskiel Darmawan  
 NIM  : (2509116027)
+
 Tema : Messy Employee Dataset
 
 Dataset yang digunakan dalam tugas ini adalah dataset karyawan yang berisi informasi seperti usia, salary, pengalaman kerja, departemen, performance rating, serta status kerja (resign atau tidak).
